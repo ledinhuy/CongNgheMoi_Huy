@@ -1,0 +1,119 @@
+.grid-container {
+  margin: 5px; 
+  height: 100%; 
+  
+}
+
+.dashboard-card-left {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  right: 1px;
+  bottom: 1px;
+  width: 100%;
+
+}
+.dashboard-card {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+
+}
+.list-contact{
+  width: 100%;
+  max-width: 270px;
+  height: 100%;
+}
+
+.input-search{
+  padding-top: 5px;
+  min-width: 300px;
+  max-width: 700px;
+  width: 100%;
+  text-size-adjust: 12;
+}
+.item-list{
+  border: none;
+  min-width: 300;
+  max-width: 550;
+  width: 100%;
+
+}
+.viewport-contacts {
+
+  min-height: 850px;
+  max-height: 900px;
+  height: 100%;
+
+}
+.viewport-messages{
+  background-color: beige;
+  min-height: 700px;
+  max-height: 1000px;
+  height: 100%;
+
+}
+.input-chat{
+  width: 90%;
+  float: right;
+  margin-right: 10px;
+  padding-right: 20px;
+
+}
+.button-choosefile{
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+}
+.button-sendmessages{
+  float: right;
+  margin-right: 10px;
+  bottom: 10px;
+}
+.messages-card-left{
+
+  float: left;
+  margin-left: 40px;
+
+}
+.messages-card-right{
+  margin-right: 40px;
+  float: right;
+
+}
+.example-header-image {
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+}
+
+.messages-right{
+  float: right;
+  width: 100%;
+  max-width: 700px;
+}
+.messages-left{
+  padding-top: 10px;
+  float: left;
+  width: 100%;
+  max-width: 700px;
+
+}
+.messages-right-background{
+  background-color: cornflowerblue;
+}
+.button-search{
+  float: right;
+
+}
+.name-input-id{
+  max-width: 300px;
+}
+.button-name-user{
+  max-width: 270px;
+  min-width: 20px;
+  width: 100%;
+}
